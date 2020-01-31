@@ -25,3 +25,20 @@ hs_err_pid*
 # idea
 **/*.iml
 **/.idea/
+
+# eclipse
+**/.project
+**/.classpath
+**/.settings/
+**/.matadata/
+**/RemoteSystemsTempFiles
+
+# maven
+**/target/
+**/overlays/
+
+# checkstyle
+**/.checkstyle
+
+# pmd
+**/.pmd
