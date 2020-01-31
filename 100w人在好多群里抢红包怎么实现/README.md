@@ -119,4 +119,4 @@ math.random(1, x)
 
 https://blog.csdn.net/goodai007/article/details/59579515
 
-源码见 red-packet
+源码见 [red-packet](https://github.com/iamlaoqian/alibaba-interview/tree/master/100w%E4%BA%BA%E5%9C%A8%E5%A5%BD%E5%A4%9A%E7%BE%A4%E9%87%8C%E6%8A%A2%E7%BA%A2%E5%8C%85%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0/red-packet)
